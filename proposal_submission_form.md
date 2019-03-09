@@ -1,12 +1,12 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 226
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: gang gang
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### Should I bring a?
+##### ?
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### `YOUR DATASETS HERE`
@@ -15,18 +15,18 @@
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
 #### Team Members
-| ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
-| -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| ## | Name | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
+| -- | :---      | :---: | :---: | :---: | :---: |
+| 01 | Test Name | [X]   | [ ]   | [ ]   | [ ]   |
+| 02 |           | [ ]   | [ ]   | [ ]   | [ ]   |
+| 03 |           | [ ]   | [ ]   | [ ]   | [ ]   |
+| 04 |           | [ ]   | [ ]   | [ ]   | [ ]   |
+| 05 |           | [ ]   | [ ]   | [ ]   | [ ]   |
+| 06 |           | [ ]   | [ ]   | [ ]   | [ ]   |
+| 07 |           | [ ]   | [ ]   | [ ]   | [ ]   |
+| 08 |           | [ ]   | [ ]   | [ ]   | [ ]   |
+| 09 |           | [ ]   | [ ]   | [ ]   | [ ]   |
+| 10 |           | [ ]   | [ ]   | [ ]   | [ ]   |
   
 #### A question your team is answering (check a box OR provide a question your team created)
 
