@@ -1,12 +1,14 @@
-### 2019 BIG DATA HACKATHON PROPOSAL FORM
+# 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: 226
+**Team Number:** 226
 
-#### Team Name: gang gang
+**Team Name:** (idea isn't to hackathon scope!)
   
-#### Your team’s hackathon idea in TWO sentences:
-##### Should I bring a?
-##### ?
+**Your team’s hackathon idea in TWO sentences:**
+<!--
+- Dead simple web application to recommend whether or not you should bring *something* when you're going *somewhere*.
+- API for adding items to data-set query and "should bring"/"should not bring" 
+-->
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### `YOUR DATASETS HERE`
